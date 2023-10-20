@@ -21,9 +21,9 @@ P-value를 통해 입원기간에 영향을 주는 변수들을 최종 선택함
 최종적으로 선택된 변수들을 바탕으로 분석 내용을 정리.
 
 
-김민정 [KMJ_README]()
+김민정 [KMJ_README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/KMJ_README.md)
 
-김상아 [KSA_README]()
+김상아 [KSA_README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/KSA_README.md)
 
 PROJECT_1 [README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/README.md)
 
@@ -37,8 +37,8 @@ PROJECT_1 [README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/co
 심결본인부담금에 영향을 미치는 변수들을 회의를 통해 선택함.
 선정된 설명변수를 각각 나눠서 EDA, CDA를 진행
 
-김민정 [KMJ_README]()
+김민정 [KMJ_README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KMJ_README.md)
 
-김상아 [KSA_README]()
+김상아 [KSA_README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KSA_README.md)
 
 PROJECT_2 [README](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/README.md)
