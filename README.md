@@ -21,11 +21,11 @@ P-value를 통해 입원기간에 영향을 주는 변수들을 최종 선택함
 최종적으로 선택된 변수들을 바탕으로 분석 내용을 정리.
 
 
-김민정 [KMJ_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1/김민정)
+김민정 [KMJ_README](codes/quest1/김민정)
 
-김상아 [KSA_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1/김상아)
+김상아 [KSA_README](codes/quest1/김상아)
 
-PROJECT_1 [README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1)
+PROJECT_1 [README](codes/quest1)
 
 ### Project_2. 고혈압환자들에서 심결본인부담금과 그에 영향을 미치는 요인은?
 
