@@ -21,11 +21,11 @@ P-value를 통해 입원기간에 영향을 주는 변수들을 최종 선택함
 최종적으로 선택된 변수들을 바탕으로 분석 내용을 정리.
 
 
-김민정 [KMJ_README](codes/quest1/김민정)
+김민정 [KMJ_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1/김민정/README.md)
 
-김상아 [KSA_README](codes/quest1/김상아)
+김상아 [KSA_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1/김상아/README.md)
 
-PROJECT_1 [README](codes/quest1)
+PROJECT_1 [README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest1/README.md)
 
 ### Project_2. 고혈압환자들에서 심결본인부담금과 그에 영향을 미치는 요인은?
 
@@ -37,8 +37,8 @@ PROJECT_1 [README](codes/quest1)
 심결본인부담금에 영향을 미치는 변수들을 회의를 통해 선택함.
 선정된 설명변수를 각각 나눠서 EDA, CDA를 진행
 
-김민정 [KMJ_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2/김민정)
+김민정 [KMJ_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2/김민정/README.md)
 
-김상아 [KSA_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2/김상아)
+김상아 [KSA_README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2/김상아/README.md)
 
-PROJECT_2 [README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2)
+PROJECT_2 [README](https://kkkkkikkkk.github.io/toy_data_analysiss/codes/quest2/README.md)
